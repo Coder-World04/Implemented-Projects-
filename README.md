@@ -1,5 +1,5 @@
 # Implemented-Projects-
-This repository covers Implemented projects
+This repository covers Implemented projects that you can build and add to your portfolio.
 
 [Implemented Project 1](https://medium.datadriveninvestor.com/day-21-60-days-of-data-science-and-machine-learning-series-b0feb6ba71f4?sk=c2a68682a01ea2de48b837f429032db1)
 
