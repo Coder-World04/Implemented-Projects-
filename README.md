@@ -108,6 +108,7 @@ This repository covers Implemented projects that you can build and add to your p
 [Implemented Project 53](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0) 
 
 # Projects
+-----------------
 
 [Implemented Data Science and ML projects](https://medium.com/coders-mojo/data-science-and-ml-projects-series-d9b07789368b?sk=4f1aaffd6d9dcf0255b7e02139d3dc71)
 
