@@ -1,4 +1,11 @@
 # Implemented-Projects-
+
+[Complete Cheat Sheet for Tech Interviews - How to prepare efficiently](https://open.substack.com/pub/naina0405/p/cheat-sheet-for-tech-interviews-how-339?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[Mega Launch - 200+ System Design Case Studies](https://open.substack.com/pub/naina0405/p/mega-launch-200-new-system-design?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[Complete System Design Github](https://github.com/Coder-World04/Complete-System-Design/blob/main/README.md)
+
 This repository covers Implemented projects that you can build and add to your portfolio.
 
 [Implemented Project 1](https://medium.datadriveninvestor.com/day-21-60-days-of-data-science-and-machine-learning-series-b0feb6ba71f4?sk=c2a68682a01ea2de48b837f429032db1)
@@ -145,3 +152,43 @@ This repository covers Implemented projects that you can build and add to your p
 [Implemented Data Engineering Projects](https://medium.com/coders-mojo/implemented-data-engineering-projects-59a8c4190b28?sk=d08d3f406f1dddd6d8122c03ca4fef5d)
 
 [Implemented Natural Leaning Processing Projects](https://medium.com/coders-mojo/implemented-natural-leaning-processing-projects-f5efa8c4cb31?sk=597f814c51b392abd8b2a9e28c1eebb5)
+
+----
+# Highly Recommended Data Science and Machine Learning Courses that you MUST take ( with certificate) - 
+
+1. Complete Data Scientist : https://bit.ly/3wiIo8u
+
+Learn to run data pipelines, design experiments , build recommendation systems, and deploy solutions to the cloud.
+
+----
+
+2. Complete Data Engineering : https://bit.ly/3A9oVs5
+
+Learn to design data models, build data warehouses and data lakes, automate data pipelines, and work with massive datasets
+
+-----
+
+3. Complete Machine Learning Engineer : https://bit.ly/3Tir8ub
+
+Learn advanced machine learning techniques and algorithms - including how to package and deploy your models to a production environment.
+
+-----
+
+4. Complete Data Product Manager : https://bit.ly/3QGUtwi
+
+Leverage data to build products that deliver the right experiences, to the right users, at the right time. Lead the development of data-driven products that position businesses to win in their market.
+
+------
+
+5. Complete Natural Language Processing : https://bit.ly/3T7J8qY
+
+Build models on real data, and get hands-on experience with sentiment analysis, machine translation, and more.
+
+------
+
+6. Complete Deep Learning: https://bit.ly/3T5ppIo
+
+Learn to implement Neural Networks using the deep learning framework PyTorch
+
+------
+
