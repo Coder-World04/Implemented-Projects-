@@ -6,6 +6,12 @@
 
 [Complete System Design Github](https://github.com/Coder-World04/Complete-System-Design/blob/main/README.md)
 
+[I took theses Projects Based Courses to Build Industry aligned Data Science and ML skills](https://open.substack.com/pub/naina0405/p/i-took-theses-projects-based-courses-af3?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[Part 1 - How to solve Any ML System Design Problem](https://open.substack.com/pub/naina0405/p/part-1-how-to-solve-any-ml-system?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+-------
+
 This repository covers Implemented projects that you can build and add to your portfolio.
 
 [Implemented Project 1](https://medium.datadriveninvestor.com/day-21-60-days-of-data-science-and-machine-learning-series-b0feb6ba71f4?sk=c2a68682a01ea2de48b837f429032db1)
