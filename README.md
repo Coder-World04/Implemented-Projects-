@@ -1,5 +1,7 @@
 # Implemented-Projects-
 
+Youtube for all the implemented projects and tech interview resources - [Ignito Youtube Channel](https://www.youtube.com/@ignito5917/about)
+
 [Complete Cheat Sheet for Tech Interviews - How to prepare efficiently](https://open.substack.com/pub/naina0405/p/cheat-sheet-for-tech-interviews-how-339?r=14q3sp&utm_campaign=post&utm_medium=web)
 
 [Mega Launch - 200+ System Design Case Studies](https://open.substack.com/pub/naina0405/p/mega-launch-200-new-system-design?r=14q3sp&utm_campaign=post&utm_medium=web)
